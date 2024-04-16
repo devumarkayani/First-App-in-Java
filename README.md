@@ -1,2 +1,2 @@
-First Java app
+First Java app.
 
